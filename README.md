@@ -1,6 +1,6 @@
 # knote-java
 
-https://github.com/learnk8s/knote-java
+fork from: https://github.com/learnk8s/knote-java
 
 
 ```bash
